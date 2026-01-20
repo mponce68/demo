@@ -1,2 +1,2 @@
-# demo
-“Mi primer repositorio en GitHub"
+# Mi repositorio DEMO
+MI REPORSITORIO DE PRUEBA
